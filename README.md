@@ -6,9 +6,10 @@ A minimal, secure authentication example built with Next.js (App Router), NextAu
 
 ## 🎥 Demo
 
-<video width="100%" controls>
-  <source src="./public/demo.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/4bd72b95-8f2d-4858-8a9f-5a9a90ffbbab
+
+
 
 **Key Requirements (assignment)**
 
